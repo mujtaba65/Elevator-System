@@ -1,0 +1,3 @@
+To run the program:
+1) Make sure python3 is installed.
+2) type "python3 Elevator.py"
